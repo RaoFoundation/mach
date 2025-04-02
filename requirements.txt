@@ -1,4 +1,5 @@
 requests>=2.31.0
 bittensor>=6.5.0
 bittensor-cli>=6.5.0
-datasets>=2.18.0 
+datasets>=2.18.0
+math-verify[antlr4_13_2]>=0.1.0 
