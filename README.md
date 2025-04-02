@@ -19,7 +19,7 @@ pip install uv
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone git@github.com:RaoFoundation/mach.git
 cd mach
 ```
 
@@ -53,4 +53,4 @@ python -c "import bittensor; import requests; print('Installation successful!')"
 
 Run the main application:
 ```bash
-python mach/hello.py 
+python mach/hello.py
